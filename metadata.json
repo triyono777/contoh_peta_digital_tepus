@@ -1,0 +1,6 @@
+{
+  "name": "Peta Digital Desa Tepus Gunungkidul",
+  "description": "Peta digital dan direktori UMKM serta fasilitas umum penting Kalurahan Tepus, Kapanewon Tepus, Kabupaten Gunungkidul, D.I. Yogyakarta.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
